@@ -13,5 +13,3 @@ root.render(
     <Table />
   </React.StrictMode>
 );
-
-  
